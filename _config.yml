@@ -9,8 +9,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: fly # add your name
-author-img: david-freeman.jpg # add your photo
+author: your name # add your name
+author-img: photo.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 weibo: # add your weibo handle
 github: he236555699 # add your Github handle
